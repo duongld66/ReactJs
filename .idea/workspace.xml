@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5069c0f-d634-4948-a31a-e066bcd859a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/013_component/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/013_component/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/013_component/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/013_component/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/023_lifecycle/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/023_lifecycle/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/027_react_router/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/027_react_router/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/027_react_router/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/027_react_router/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/027_react_router/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/027_react_router/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/027_react_router/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/027_react_router/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/027_react_router/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/027_react_router/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/027_react_router/src/Css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/027_react_router/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/027_react_router/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/027_react_router/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/055_user_manage/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/055_user_manage/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/055_user_manage/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/055_user_manage/src/Components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/055_user_manage/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/055_user_manage/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/055_user_manage/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/055_user_manage/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/055_user_manage" />
+  </component>
+  <component name="ProjectId" id="1rhIysvE70Wfzd2oQ8cArwu7pfs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/027_react_router/public" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\React Js\027_react_router\public" />
+      <recent name="E:\React Js\027_react_router\src" />
+      <recent name="E:\React Js\027_react_router\src\Css" />
+      <recent name="E:\React Js\027_react_router\frontend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\React Js\055_user_manage\src\Components" />
+      <recent name="E:\React Js\027_react_router\src\Css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5069c0f-d634-4948-a31a-e066bcd859a2" name="Default Changelist" comment="" />
+      <created>1619422155026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619422155026</updated>
+      <workItem from="1619422156830" duration="3560000" />
+      <workItem from="1619426726939" duration="8856000" />
+      <workItem from="1619489308586" duration="5548000" />
+      <workItem from="1619576712678" duration="22982000" />
+      <workItem from="1619662678738" duration="9555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

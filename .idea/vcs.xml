@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/013_component" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/023_lifecycle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/027_react_router" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/055_user_manage" vcs="Git" />
+  </component>
+</project>
